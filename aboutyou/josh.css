@@ -1,0 +1,54 @@
+body{
+    background-color: black; 
+    color:white; 
+    background-repeat: none; 
+    background-size: contain; 
+    font-size: 100%; 
+    padding: 0;
+    margin: 0; 
+    text-align: left;        
+} 
+
+h1{
+    text-align: center;  
+    background-color: magenta;
+}
+h2{
+    color: black; 
+    text-shadow: 3px 3px 3px gray;  
+} 
+h3{ 
+    text-align: left; 
+    font-family: 'Gamja Flower', cursive;
+    color: magenta;   
+}
+h4{
+    text-align: center; 
+    word-spacing: 3px;
+    letter-spacing: 1px; 
+    font-family: 'Abril Fatface', cursive;  
+    
+}
+nav{ 
+    border: 10px solid transparent; 
+    border: dotted #8A2BE2; 
+    text-align: center; 
+    background-color: aliceblue;   
+} 
+section,aside{ 
+    border: 10px solid transparent; 
+    border: dotted #8A2BE2; 
+}
+p,li{ 
+    font-family: 'Gamja Flower', cursive;
+    font-size: 24px;  
+} 
+article{
+    border: 10px solid transparent; 
+    border: dotted #8A2BE2;
+} 
+footer{
+    background-color: azure;
+    color: black; 
+}
+
