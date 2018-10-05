@@ -1,0 +1,22 @@
+header {
+    padding-left: 25%;
+    padding-right:25%;
+    text-align: center; 
+    background-color: aquamarine; 
+} 
+section {
+    background-image: url("background1.jpg"); 
+    padding-left: 25%;
+    padding-right:25%;
+    text-align: center; 
+} 
+.button1 {
+    border-radius: 50%;  
+}
+.button2 {
+    border-radius: 50%; 
+} 
+article{
+    background-color: bisque; 
+    text-align: center;  
+}
